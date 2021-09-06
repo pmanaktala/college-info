@@ -11,6 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/college")
+@CrossOrigin(allowedHeaders = "*", origins = "*")
 public class CollegeInfoController {
 
     @Autowired
