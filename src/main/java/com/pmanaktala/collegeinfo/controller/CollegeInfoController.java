@@ -1,8 +1,6 @@
 package com.pmanaktala.collegeinfo.controller;
 
 import com.pmanaktala.collegeinfo.entity.College;
-import com.pmanaktala.collegeinfo.entity.Gre;
-import com.pmanaktala.collegeinfo.entity.Toefl;
 import com.pmanaktala.collegeinfo.repository.CollegeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
