@@ -22,6 +22,7 @@ public class Toefl {
     private College college;
 
     private Boolean required;
+    private Long totalSocre;
     private Long minimumReading;
     private Long minimumWriting;
     private Long minimumListening;
